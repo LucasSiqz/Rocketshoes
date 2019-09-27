@@ -9,7 +9,7 @@ export default function Home() {
       <li>
         <img
           src="https://static.netshoes.com.br/produtos/chuteira-campo-nike-mercurial-superfly-6-club/88/D12-9252-388/D12-9252-388_zoom1.jpg"
-          alt=""
+          alt="mercurial"
         />
         <strong>Nike mercurial</strong>
         <span>R$129,90</span>
