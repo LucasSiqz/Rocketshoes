@@ -21,6 +21,7 @@ export const Container = styled.div`
     padding: 12px 20px;
     font-weight: bold;
     text-transform: uppercase;
+    transition: background 0.2s;
 
     &:hover {
       background: ${darken(0.03, '#7159c1')};
@@ -75,6 +76,11 @@ export const ProductTable = styled.table`
     background: none;
     border: 0;
     padding: 6px;
+    transition: background 0.2s;
+
+    &:hover {
+      background: ${darken(0.03, '#eee')};
+    }
   }
 `;
 
